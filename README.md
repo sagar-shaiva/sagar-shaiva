@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **s.sagar2468@gmail.com**
 
-- ⚡ Fun fact **Introvet Coder**
+- ⚡ Fun fact **Introvert Coder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
