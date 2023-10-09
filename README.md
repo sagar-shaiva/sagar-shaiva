@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/imsagarshaiva" target="blank"><img src="https://img.shields.io/twitter/follow/imsagarshaiva?logo=twitter&style=for-the-badge" alt="imsagarshaiva" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, Advance CSS**
+- 🌱 I’m currently learning **JavaScript, CSS**
 
 - 💬 Ask me about **HTML,CSS,JS,C#,.Net**
 
