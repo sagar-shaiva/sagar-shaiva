@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi 👋, I'm S Sagar</h1>
-<h3 align="center">A Full Stack .Net Developer and Cloud Enthusiastic</h3>
+<h3 align="center">A Full Stack Javascript developer and Cloud Enthusiastic</h3>
  <img
       src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif"
       alt="coding"
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **JavaScript, CSS**
 
-- 💬 Ask me about **HTML,CSS,JS,C#,.Net**
+- 💬 Ask me about **HTML,CSS,JS,React,SQL**
 
 - 📫 How to reach me **s.sagar2468@gmail.com**
 
