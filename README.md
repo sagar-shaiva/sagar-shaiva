@@ -40,8 +40,8 @@
 ### ⚙️ GitHub Analytics
 
 <p float="left">
-  <img height="155em" src="https://raw.githubusercontent.com/sagar-shaiva/sagar-shaiva/master/profile-summary-card-output/github_dark/0-profile-details.svg" width="45%" />
-  <img height="155em" src="https://raw.githubusercontent.com/sagar-shaiva/sagar-shaiva/master/profile-summary-card-output/github_dark/3-stats.svg" width="45%" />
+  <img height="155em" src="https://raw.githubusercontent.com/sagar-shaiva/sagar-shaiva/master/profile-summary-card-output/github_dark/0-profile-details.svg"/>
+  <img height="155em" src="https://raw.githubusercontent.com/sagar-shaiva/sagar-shaiva/master/profile-summary-card-output/github_dark/3-stats.svg"/>
 </p>
 
 
