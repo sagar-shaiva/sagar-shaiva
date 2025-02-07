@@ -54,45 +54,6 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.8%20thousand%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-🌆 Daytime                118 commits         ████████░░░░░░░░░░░░░░░░░   31.38 % 
-🌃 Evening                231 commits         ███████████████░░░░░░░░░░   61.44 % 
-🌙 Night                  17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   54 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Tuesday                  60 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Wednesday                34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-Thursday                 54 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Friday                   70 commits          █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-Saturday                 27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-Sunday                   77 commits          █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -103,7 +64,7 @@ JavaScript               1 repo              ██████░░░░░�
 
 
 
- Last Updated on 07/02/2025 12:02:01 UTC
+ Last Updated on 07/02/2025 18:44:11 UTC
 <!--END_SECTION:waka-->
    </details> 
 
