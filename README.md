@@ -48,7 +48,13 @@
  <img height="155em" src="https://raw.githubusercontent.com/sagar-shaiva/sagar-shaiva/master/profile-summary-card-output/github_dark/4-productive-time.svg" alt="sagar-shaiva"/>
 </p>
 
+ <details>	
+    <summary><b>📈 Get my Code stats</b></summary><br>
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
+   </details> 
+  
 <p><a href="https://www.buymeacoffee.com/imsagar"> <img align="left"  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imsagar" /></a></p>
 
 <picture>
