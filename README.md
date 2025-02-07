@@ -105,11 +105,11 @@ JavaScript               1 repo              ██████░░░░░�
  Last Updated on 07/02/2025 12:02:01 UTC
 <!--END_SECTION:waka-->
    </details> 
-  
-<p><a href="https://www.buymeacoffee.com/imsagar"> <img align="left"  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imsagar" /></a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sagar-shaiva/sagar-shaiva/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sagar-shaiva/sagar-shaiva/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/sagar-shaiva/sagar-shaiva/output/github-snake.svg" />
 </picture>
+
+<p><a href="https://www.buymeacoffee.com/imsagar"> <img align="left"  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="180" alt="imsagar" /></a></p>
