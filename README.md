@@ -6,12 +6,11 @@
       alt="coding"
       width="300"
       align="right"
-   style="margin-bottom: 10px;"
     />
 
 
 
-<p align="left"> <a href="https://twitter.com/imsagarshaiva" target="blank"><img src="https://img.shields.io/twitter/follow/imsagarshaiva?logo=twitter&style=for-the-badge" alt="imsagarshaiva" /></a> </p>
+<p align="left"> <a href="https://twitter.com/imsagarshaiva" target="blank"><img src="https://img.shields.io/twitter/follow/imsagarshaiva?logo=twitter&style=for-the-badge" alt="imsagarshaiva" /></a> < style="margin-top: 10px;" /p>
 
 - 🌱 I’m currently learning **JavaScript, Playwright**
 
