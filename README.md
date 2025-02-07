@@ -32,7 +32,7 @@
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=git,javascript,playwright,html,css,nodejs"
+      src="https://go-skill-icons.vercel.app/api/icons?i=javascript,playwright,html,css,nodejs,git,github"
     />
   </a>
 </p>
