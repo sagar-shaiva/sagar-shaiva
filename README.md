@@ -6,7 +6,7 @@
       alt="coding"
       width="300"
       align="right"
-      margin-bottom="20px"
+   style="margin-bottom: 10px;"
     />
 
 
