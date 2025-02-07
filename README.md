@@ -43,9 +43,10 @@
   <img height="155em" src="https://raw.githubusercontent.com/sagar-shaiva/sagar-shaiva/master/profile-summary-card-output/github_dark/0-profile-details.svg"/>
   <img height="155em" src="https://raw.githubusercontent.com/sagar-shaiva/sagar-shaiva/master/profile-summary-card-output/github_dark/3-stats.svg"/>
 </p>
-
-
-
+<p float="left">
+ <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-shaiva&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sagar-shaiva" />
+ <img height="155em" src="https://raw.githubusercontent.com/sagar-shaiva/sagar-shaiva/master/profile-summary-card-output/github_dark/4-productive-time.svg" alt="sagar-shaiva"/>
+</p>
 
 
 <p><a href="https://www.buymeacoffee.com/imsagar"> <img align="left"  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imsagar" /></a></p>
