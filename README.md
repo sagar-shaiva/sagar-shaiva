@@ -7,7 +7,7 @@
       width="300"
       align="right"
     />
-    <br/>
+    <br>
 
 
 <p align="left"> <a href="https://twitter.com/imsagarshaiva" target="blank"><img src="https://img.shields.io/twitter/follow/imsagarshaiva?logo=twitter&style=for-the-badge" alt="imsagarshaiva" /></a> </p>
