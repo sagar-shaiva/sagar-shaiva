@@ -49,7 +49,6 @@
  <img height="155em" src="https://raw.githubusercontent.com/sagar-shaiva/sagar-shaiva/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="sagar-shaiva"/>
 </p>
 
-    <summary><b>📈 Get my Code stats</b></summary><br>
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.8%20thousand%20lines%20of%20code-blue)
 
