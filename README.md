@@ -50,26 +50,26 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-54.63%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-62.58%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-🌆 Daytime                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-🌃 Evening                189 commits         ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
-🌙 Night                  538 commits         ████████████████░░░░░░░░░   63.07 % 
+🌞 Morning                28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+🌆 Daytime                105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+🌃 Evening                192 commits         ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+🌙 Night                  542 commits         ████████████████░░░░░░░░░   62.51 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Tuesday                  116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Wednesday                103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Thursday                 121 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Friday                   142 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-Saturday                 119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Sunday                   144 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Monday                   108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Tuesday                  116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Wednesday                103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Thursday                 126 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Friday                   148 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Saturday                 121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Sunday                   145 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
 ```
 
 
@@ -79,38 +79,38 @@ Sunday                   144 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               7 hrs 7 mins        █████████████████████░░░░   85.20 % 
-PowerShell               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+TypeScript               8 hrs 25 mins       █████████████████████░░░░   82.17 % 
+PowerShell               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 10 mins       ████████████████████████░   97.67 % 
-Copilot CLI              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+VS Code                  10 hrs 3 mins       █████████████████████████   98.10 % 
+Copilot CLI              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🐱‍💻 Projects: 
-playwrightDemo           5 hrs 55 mins       ██████████████████░░░░░░░   70.84 % 
-twofa                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-playwrightTypescript     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Unknown Project          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-tests                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+playwrightDemo           7 hrs 39 mins       ███████████████████░░░░░░   74.69 % 
+twofa                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+demosite                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Unknown Project          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+tests                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 
 💻 Operating System: 
-Windows                  8 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               5 repos             ██████████████████░░░░░░░   71.43 % 
-HTML                     2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+JavaScript               5 repos             ████████████████░░░░░░░░░   62.50 % 
+HTML                     3 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
 ```
 
 
 
 
- Last Updated on 22/07/2026 19:51:22 UTC
+ Last Updated on 25/07/2026 19:57:20 UTC
 <!--END_SECTION:waka-->
 
 <picture>
