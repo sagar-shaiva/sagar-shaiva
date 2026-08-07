@@ -50,7 +50,78 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-64.41%20thousand%20lines%20of%20code-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-52%20hrs%2054%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-64.44%20thousand%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+🌆 Daytime                112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+🌃 Evening                197 commits         ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+🌙 Night                  554 commits         ████████████████░░░░░░░░░   62.04 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+Tuesday                  119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Wednesday                105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Thursday                 130 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Friday                   155 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Saturday                 122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Sunday                   151 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               41 mins             ████████████░░░░░░░░░░░░░   47.35 % 
+Other                    28 mins             ████████░░░░░░░░░░░░░░░░░   31.63 % 
+JavaScript               10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+YAML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔥 Editors: 
+VS Code                  1 hr 5 mins         ██████████████████░░░░░░░   73.82 % 
+Copilot CLI              23 mins             ███████░░░░░░░░░░░░░░░░░░   26.18 % 
+
+🐱‍💻 Projects: 
+playwrightversiontest    57 mins             ████████████████░░░░░░░░░   64.87 % 
+apib-sanity              25 mins             ███████░░░░░░░░░░░░░░░░░░   29.02 % 
+tests                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+
+💻 Operating System: 
+Windows                  1 hr 28 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 48 mins (54.22%)
+
+✍️ 220 lines written by AI, 107 lines written by hand (67.28% AI-written)
+
+🔤 35,801 Input Tokens, 14,777 Output Tokens
+
+💵 $0.33 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 7 AI Prompts
+
+Github-Copilot           220 lines           █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 67.28% of written lines came from AI
+📚 Verbose Prompter — average 2,263 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 39.23% of changed lines were hand-edited
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -62,7 +133,7 @@ HTML                     3 repos             █████████░░�
 
 
 
- Last Updated on 07/08/2026 00:22:12 UTC
+ Last Updated on 07/08/2026 19:26:39 UTC
 <!--END_SECTION:waka-->
 
 <picture>
