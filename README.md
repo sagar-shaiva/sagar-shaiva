@@ -50,28 +50,28 @@
 </p>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%2038%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.16%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.38%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-🌆 Daytime                118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-🌃 Evening                199 commits         █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
-🌙 Night                  567 commits         ████████████████░░░░░░░░░   62.04 % 
+🌞 Morning                31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+🌆 Daytime                118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+🌃 Evening                201 commits         █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+🌙 Night                  568 commits         ███████████████░░░░░░░░░░   61.87 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Tuesday                  122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Wednesday                110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Thursday                 131 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Friday                   156 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Saturday                 124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Sunday                   158 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Monday                   113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Tuesday                  122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Wednesday                110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Thursday                 135 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Friday                   156 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Saturday                 124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Sunday                   158 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
 ```
 
 
@@ -81,49 +81,49 @@ Sunday                   158 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    23 mins             ████████████░░░░░░░░░░░░░   48.93 % 
-JavaScript               18 mins             █████████░░░░░░░░░░░░░░░░   37.09 % 
-Python                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+SQL                      31 mins             █████████░░░░░░░░░░░░░░░░   34.02 % 
+Other                    27 mins             ███████░░░░░░░░░░░░░░░░░░   29.64 % 
+JavaScript               18 mins             █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+PowerShell               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 
 🔥 Editors: 
-VS Code                  46 mins             ████████████████████████░   94.88 % 
-Unknown Editor           1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-Visual                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+VS Code                  1 hr 29 mins        ████████████████████████░   97.30 % 
+Unknown Editor           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Visual                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🐱‍💻 Projects: 
-Unknown Project          22 mins             ████████████░░░░░░░░░░░░░   46.38 % 
-mobileautomation         16 mins             █████████░░░░░░░░░░░░░░░░   34.02 % 
-playwrightversiontest    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-apib-sanity              3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-playwright-cli           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+dberror                  28 mins             ████████░░░░░░░░░░░░░░░░░   30.65 % 
+Unknown Project          22 mins             ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
+mobileautomation         16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+scripts                  8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+shivaks1                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
 
 💻 Operating System: 
-Windows                  48 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 32 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 mins (62.91%)
+⏱ AI Coding Time: 1 hr 14 mins (80.43%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 159 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 25,513 Input Tokens, 1,355 Output Tokens
+🔤 137,238 Input Tokens, 4,632 Output Tokens
 
-💵 $0.10 Estimated AI Cost This Week
+💵 $0.48 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 10 AI Prompts
+🧠 9 AI Sessions, 17 AI Prompts
 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           159 lines           █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 3,437 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,603 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🚀 High AI Trust — 0.62% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -136,7 +136,7 @@ HTML                     3 repos             █████████░░�
 
 
 
- Last Updated on 19/08/2026 19:01:33 UTC
+ Last Updated on 20/08/2026 19:09:37 UTC
 <!--END_SECTION:waka-->
 
 <picture>
