@@ -52,26 +52,26 @@
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%2038%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.48%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.49%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-🌆 Daytime                118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-🌃 Evening                202 commits         █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-🌙 Night                  576 commits         ████████████████░░░░░░░░░   62.14 % 
+🌞 Morning                32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+🌆 Daytime                118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+🌃 Evening                204 commits         █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+🌙 Night                  576 commits         ███████████████░░░░░░░░░░   61.94 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Tuesday                  125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Wednesday                111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Thursday                 136 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Friday                   157 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Saturday                 125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Sunday                   159 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Monday                   114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Tuesday                  125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Wednesday                111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Thursday                 136 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Friday                   160 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Saturday                 125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Sunday                   159 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
 ```
 
 
@@ -81,22 +81,40 @@ Sunday                   159 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 min               ██████████████████████░░░   89.45 % 
+Copilot CLI              0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          1 min               ██████████████████████░░░   89.45 % 
+playwrightversiontest    0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 min (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 24,307 Input Tokens, 847 Output Tokens
+
+💵 $0.09 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 7 AI Prompts
+
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 11 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,7 +127,7 @@ HTML                     3 repos             █████████░░�
 
 
 
- Last Updated on 28/08/2026 02:15:35 UTC
+ Last Updated on 29/08/2026 01:49:18 UTC
 <!--END_SECTION:waka-->
 
 <picture>
