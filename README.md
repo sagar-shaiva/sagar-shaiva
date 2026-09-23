@@ -50,7 +50,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%2016%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-68.00%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -58,20 +58,20 @@
 
 ```text
 🌞 Morning                34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-🌆 Daytime                118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-🌃 Evening                213 commits         ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
-🌙 Night                  600 commits         ████████████████░░░░░░░░░   62.18 % 
+🌆 Daytime                118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+🌃 Evening                213 commits         ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+🌙 Night                  601 commits         ████████████████░░░░░░░░░   62.22 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Tuesday                  131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Wednesday                115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Thursday                 143 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-Friday                   164 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Saturday                 130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Sunday                   163 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Monday                   119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Tuesday                  131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Wednesday                116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Thursday                 143 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Friday                   164 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Saturday                 130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Sunday                   163 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
 ```
 
 
@@ -81,22 +81,46 @@ Sunday                   163 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               2 hrs 14 mins       ████████████████████████░   94.54 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Copilot CLI              2 hrs 21 mins       █████████████████████████   98.96 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+playwrightbscrprofile    2 hrs 21 mins       █████████████████████████   99.12 % 
+code-deployment          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 22 mins (100.0%)
+
+✍️ 1,577 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 80,877 Input Tokens, 934 Output Tokens
+
+💵 $0.25 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 24 AI Prompts
+
+Sonnet                   1,571 lines         █████████████████████████   99.49 % 
+Github-Copilot           8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 144 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,7 +133,7 @@ HTML                     3 repos             █████████░░�
 
 
 
- Last Updated on 22/09/2026 21:32:24 UTC
+ Last Updated on 23/09/2026 21:38:17 UTC
 <!--END_SECTION:waka-->
 
 <picture>
