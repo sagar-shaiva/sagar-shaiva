@@ -50,28 +50,28 @@
 </p>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20hrs%2058%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-68.00%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-68.12%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-🌆 Daytime                118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-🌃 Evening                213 commits         ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
-🌙 Night                  602 commits         ████████████████░░░░░░░░░   62.25 % 
+🌞 Morning                34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+🌆 Daytime                118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+🌃 Evening                214 commits         ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+🌙 Night                  604 commits         ████████████████░░░░░░░░░   62.27 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Tuesday                  131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Wednesday                116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Thursday                 144 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Friday                   164 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Saturday                 130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Sunday                   163 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Monday                   119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Tuesday                  131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Wednesday                116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Thursday                 144 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Friday                   166 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Saturday                 131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Sunday                   163 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
 ```
 
 
@@ -81,46 +81,48 @@ Sunday                   163 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 hrs 14 mins       ████████████████████████░   94.54 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+JavaScript               4 hrs 52 mins       ██████████████████████░░░   87.09 % 
+JSON                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Copilot CLI              2 hrs 21 mins       █████████████████████████   98.96 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+VS Code                  2 hrs 54 mins       █████████████░░░░░░░░░░░░   51.78 % 
+Copilot CLI              2 hrs 42 mins       ████████████░░░░░░░░░░░░░   48.22 % 
 
 🐱‍💻 Projects: 
-playwrightbscrprofile    2 hrs 21 mins       █████████████████████████   99.12 % 
-code-deployment          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+playwrightbscrprofile    2 hrs 57 mins       █████████████░░░░░░░░░░░░   52.70 % 
+playwrightTestUat        2 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   36.38 % 
+tests                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+playwrightsanitybeamnet  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+code-deployment          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Windows                  2 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 22 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 4 mins (72.79%)
 
-✍️ 1,577 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,913 lines written by AI, 147 lines written by hand (96.38% AI-written)
 
-🔤 80,877 Input Tokens, 934 Output Tokens
+🔤 616,869 Input Tokens, 10,370 Output Tokens
 
-💵 $0.25 Estimated AI Cost This Week
+💵 $2.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 24 AI Prompts
+🧠 7 AI Sessions, 54 AI Prompts
 
-Sonnet                   1,571 lines         █████████████████████████   99.49 % 
-Github-Copilot           8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Github-Copilot           2,332 lines         ███████████████░░░░░░░░░░   59.55 % 
+Sonnet                   1,584 lines         ██████████░░░░░░░░░░░░░░░   40.45 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 144 characters per prompt
+🤖 AI-Driven — 96.38% of written lines came from AI
+📝 Concise Prompter — average 132 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 4.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -133,7 +135,7 @@ HTML                     3 repos             █████████░░�
 
 
 
- Last Updated on 24/09/2026 21:39:02 UTC
+ Last Updated on 25/09/2026 21:44:36 UTC
 <!--END_SECTION:waka-->
 
 <picture>
