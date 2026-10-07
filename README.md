@@ -50,7 +50,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-63%20hrs-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-68.22%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -81,45 +81,46 @@ Sunday                   165 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 15 mins        ███████████░░░░░░░░░░░░░░   43.11 % 
-JSON                     1 hr 11 mins        ██████████░░░░░░░░░░░░░░░   40.86 % 
-Other                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+JavaScript               1 hr 55 mins        █████████████░░░░░░░░░░░░   51.58 % 
+JSON                     1 hr 14 mins        ████████░░░░░░░░░░░░░░░░░   33.47 % 
+Other                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 54 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ibpnvpasswordreset       1 hr 17 mins        ███████████░░░░░░░░░░░░░░   44.45 % 
-apib-sanity              1 hr 1 min          █████████░░░░░░░░░░░░░░░░   35.14 % 
-tests                    35 mins             █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+apib-sanity              1 hr 49 mins        ████████████░░░░░░░░░░░░░   49.04 % 
+ibpnvpasswordreset       1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   34.71 % 
+tests                    35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+playwrightTestUat        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr (34.67%)
+⏱ AI Coding Time: 1 hr 1 min (27.5%)
 
-✍️ 371 lines written by AI, 382 lines written by hand (49.27% AI-written)
+✍️ 7,449 lines written by AI, 514 lines written by hand (93.55% AI-written)
 
-🔤 156,457 Input Tokens, 881 Output Tokens
+🔤 184,017 Input Tokens, 956 Output Tokens
 
-💵 $0.48 Estimated AI Cost This Week
+💵 $0.57 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 13 AI Prompts
+🧠 3 AI Sessions, 14 AI Prompts
 
-Github-Copilot           372 lines           █████████████████████████   100.00 % 
+Github-Copilot           7,450 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 49.27% of written lines came from AI
-📄 Detailed Prompter — average 890 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 67.02% of changed lines were hand-edited
+🤖 AI-Driven — 93.55% of written lines came from AI
+📄 Detailed Prompter — average 844 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 12.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -132,7 +133,7 @@ HTML                     3 repos             █████████░░�
 
 
 
- Last Updated on 06/10/2026 22:43:56 UTC
+ Last Updated on 07/10/2026 23:13:59 UTC
 <!--END_SECTION:waka-->
 
 <picture>
