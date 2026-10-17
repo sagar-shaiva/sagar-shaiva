@@ -57,21 +57,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-🌆 Daytime                118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-🌃 Evening                215 commits         █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-🌙 Night                  623 commits         ████████████████░░░░░░░░░   62.74 % 
+🌞 Morning                37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+🌆 Daytime                118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+🌃 Evening                215 commits         █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
+🌙 Night                  624 commits         ████████████████░░░░░░░░░   62.78 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Tuesday                  134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Wednesday                117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Thursday                 147 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Friday                   172 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Saturday                 135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Sunday                   166 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Monday                   122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Tuesday                  134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Wednesday                117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Thursday                 147 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Friday                   172 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+Saturday                 136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Sunday                   166 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
 ```
 
 
@@ -81,50 +81,48 @@ Sunday                   166 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               3 hrs 27 mins       ████████████████░░░░░░░░░   62.35 % 
-JSON                     1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-Bash                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+JavaScript               3 hrs               █████████████████░░░░░░░░   67.12 % 
+JSON                     43 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Bash                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 33 mins       ████████████████████░░░░░   81.93 % 
-Copilot CLI              54 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Copilot                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+VS Code                  3 hrs 28 mins       ███████████████████░░░░░░   77.60 % 
+Copilot CLI              54 mins             █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+Copilot                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 🐱‍💻 Projects: 
-playwrightversiontest    3 hrs 11 mins       ██████████████░░░░░░░░░░░   57.43 % 
-playwright-training      1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-apib-sanity              55 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-tests                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-playwrightTestUat        7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+playwrightversiontest    3 hrs 11 mins       ██████████████████░░░░░░░   71.18 % 
+apib-sanity              55 mins             █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+playwright-training      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+playwrightTestUat        7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 💻 Operating System: 
-Windows                  5 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 15 mins (58.7%)
+⏱ AI Coding Time: 2 hrs 27 mins (54.8%)
 
-✍️ 1,192 lines written by AI, 22 lines written by hand (98.19% AI-written)
+✍️ 1,085 lines written by AI, 11 lines written by hand (99.0% AI-written)
 
-🔤 991,539 Input Tokens, 20,247 Output Tokens
+🔤 835,012 Input Tokens, 17,690 Output Tokens
 
-💵 $5.26 Estimated AI Cost This Week
+💵 $4.75 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 25 AI Prompts
+🧠 5 AI Sessions, 16 AI Prompts
 
-Sonnet                   1,105 lines         ██████████████████████░░░   89.55 % 
-Github-Copilot           107 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-GPT                      22 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Sonnet                   1,105 lines         █████████████████████████   98.05 % 
+GPT                      22 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.19% of written lines came from AI
-📝 Concise Prompter — average 381 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 4.04% of changed lines were hand-edited
+🤖 AI-Driven — 99.0% of written lines came from AI
+📝 Concise Prompter — average 418 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 1.57% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -137,7 +135,7 @@ HTML                     3 repos             █████████░░�
 
 
 
- Last Updated on 16/10/2026 21:28:05 UTC
+ Last Updated on 17/10/2026 20:47:12 UTC
 <!--END_SECTION:waka-->
 
 <picture>
