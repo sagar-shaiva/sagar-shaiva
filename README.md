@@ -54,6 +54,55 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69.30%20thousand%20lines%20of%20code-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+🌆 Daytime                118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+🌃 Evening                215 commits         █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+🌙 Night                  638 commits         ████████████████░░░░░░░░░   63.29 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Tuesday                  136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Wednesday                119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Thursday                 150 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Friday                   174 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Saturday                 137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Sunday                   168 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               11 mins             ███████████████░░░░░░░░░░   58.47 % 
+JSON                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+Bash                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+
+🔥 Editors: 
+VS Code                  20 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+bizplatform-ui-automation13 mins             █████████████████░░░░░░░░   68.33 % 
+apib-sanity              4 mins              █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+playwrightversiontest    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+
+💻 Operating System: 
+Windows                  20 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -64,7 +113,7 @@ HTML                     3 repos             █████████░░�
 
 
 
- Last Updated on 29/10/2026 22:53:43 UTC
+ Last Updated on 30/10/2026 22:32:36 UTC
 <!--END_SECTION:waka-->
 
 <picture>
